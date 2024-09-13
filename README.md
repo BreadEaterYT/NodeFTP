@@ -1,7 +1,7 @@
 # NodeFTP
 
  **NodeFTP** is a alternative to FileZilla developped in Node.js with for objective to be easy to use, user friendly and scalable 
-For contributing, you can fork the project and free to modify it, if you want it to be published as a official release, you can contact me at contact@breadeater.fr
+For contributing, you can fork the project and free to modify it, if you want it to be published as a official release, you can contact me via mail at contact@breadeater.fr
 
 The project is still in development, i will commit the source code when its done.
 
